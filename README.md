@@ -131,6 +131,6 @@ Shreyas S. Naik
 Aspiring Data Analyst passionate about data visualization, analytics, and business intelligence.
 
 Connect With Me
-💼 LinkedIn: ()
-📧 Email: ()
-🌐 GitHub: ()
+💼 LinkedIn: (www.linkedin.com/in/shreyassnaik)
+📧 Email: (shreyassnaik7@gamil.com)
+🌐 GitHub: (https://github.com/ShreyasShekharNaik)
